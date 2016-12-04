@@ -8,4 +8,7 @@ public class OutService {
     public void out1() {
     }
 
+    public void out2() {
+    }
+
 }
