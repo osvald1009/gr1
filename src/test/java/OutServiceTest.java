@@ -9,4 +9,8 @@ public class OutServiceTest {
     public void testOut1() {
     }
 
+    @Test
+    public void testOut2() {
+    }
+
 }
