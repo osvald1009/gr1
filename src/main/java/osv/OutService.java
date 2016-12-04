@@ -6,6 +6,7 @@ package osv;
 public class OutService {
 
     public void out1() {
+        //master
     }
 
     public void out2() {
